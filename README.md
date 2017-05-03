@@ -1,5 +1,5 @@
-
-Discover the power of filters
+# Core Image Filtering
+Discover the power of CIFilters
 
  ![screenshot](/screenshotimagecore.png)
 
